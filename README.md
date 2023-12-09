@@ -21,7 +21,7 @@ Here are some of the key projects I've worked on:
 
 - Description: An interactive portfolio website.
 - Technologies Used: HTML, CSS, JavaScript
-- #file:///C:/Users/DELL/Desktop/gitdemo/My%20portfolio/index.html
+- file:///C:/Users/DELL/Desktop/gitdemo/My%20portfolio/index.html
 
 
 ## Technologies Used
